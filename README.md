@@ -1,8 +1,5 @@
 ## Robert Bishop's Portfolio
 ![alt text](https://lh3.googleusercontent.com/s2IoZOvHkMc8HxbeMxb_GchfD7ICVz73jAkfXuF9L-ApBhUK_zMYRoTwuhgCgFi5ADkqZMQgsGUm5FTR_BTcRQZP_tK6fmr3fB985FnmmtbZtXiFRxzV7k3r3MGRWivYfPC-pWCsktxZrh6GJXjaul8-7-M2hU8sGcG9kH1iwsM5EkArnQxQbINqf36P3M5rM1SDX4baFVHMnN2PNGoJY6lqcAF2ElTPAPjSN4oqCK2mNviNYUS9YChjG4IGpnxjLRdq3Ol0AlFZJaIa19bVlGx9rudENcZ0q0Wh8jUVRkeuLJos41lTvD3tNnETRAdAhcXEqi9IwKK8u2Eag8TAdccpThFMIf5S1n84uZlfL4Z9uVrPUr1tt-IBo7RWdI6cnC3tTx1et9ipIKVAKLzLJ74bLYkIrtrzdYSqw6J_j2o27TavnCCYWAu7msw_fRfl9dnoWtunp81w7TycCqvrEAW2m35tWqOdGv-7DIBQSkdZA8mo6ab3jduKxHmhd-U3uXtUC1Of9qluINT9WRYYKhikISgiYtrGSBsmgZi5VVFDKXaSUTp2XyQ8XHyushrcV0r12YgIM2RrallMR3rvvQn3XxSIGpdm5C4PGeCVBKAWpCz7Y-WTqtFOmjU0kadeynd-4zFiCl7-OgJIOfijSzkYTdlbIo1bIOPPCGBLp60 "Me")
-You can use the [editor on GitHub](https://github.com/robertbishop1/robertbishop1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Here are some recent projects that I have completed.
 
