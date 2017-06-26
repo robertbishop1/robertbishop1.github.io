@@ -4,10 +4,9 @@ You can use the [editor on GitHub](https://github.com/robertbishop1/robertbishop
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Here are some recent projects that I have completed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## This project is a simple calculator for movie theater profits.
 ```c++
 // This application calculates gross and net box office profit for a theater.
 #include <iostream>
